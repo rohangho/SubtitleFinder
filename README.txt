@@ -1,0 +1,1 @@
+Just run the program and enter the name of the movie of which you want to search for the subtitle
